@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_inf_sri_object_specification_id" label=" Specification ID" language="en" table="x_inpl_test_sri_sri_test_git">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_inf_sri_object_specification_id</element>
+            <help/>
+            <hint/>
+            <label> Specification ID</label>
+            <language>en</language>
+            <name>x_inpl_test_sri_sri_test_git</name>
+            <plural> Specification IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-13 06:40:54</sys_created_on>
+            <sys_id>d46bb8f4db71a3c0f939fc7c0c961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Specification ID</sys_name>
+            <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+            <sys_update_name>sys_documentation_x_inpl_test_sri_sri_test_git_u_inf_sri_object_specification_id_en</sys_update_name>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-13 06:40:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

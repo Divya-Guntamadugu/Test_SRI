@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>SRI_Test_GIT</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_inpl_test_sri_sri_test_git</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Business Service" name="cmdb_ci_service">3ee66ddcdb121300a750f0152c961946</super_class>
+        <sys_class_code>!)</sys_class_code>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path>/!!/#B/!)</sys_class_path>
+        <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+        <sys_created_on>2018-11-13 06:40:49</sys_created_on>
+        <sys_id>a82bb0f4db71a3c0f939fc7c0c96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SRI_Test_GIT</sys_name>
+        <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+        <sys_update_name>sys_db_object_a82bb0f4db71a3c0f939fc7c0c96196a</sys_update_name>
+        <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+        <sys_updated_on>2018-11-13 06:40:49</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_inpl_test_sri.u_inf_test_sri_app_access" name="x_inpl_test_sri.u_inf_test_sri_app_access">4bda74f4db71a3c0f939fc7c0c9619eb</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SRI_Test_GIT">8f5bb8f4db71a3c0f939fc7c0c961912</application>
+        <filter/>
+        <name>SRI_Test_GITs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_inpl_test_sri.u_inf_test_sri_app_access</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+        <sys_created_on>2018-11-13 06:40:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f5bb8f4db71a3c0f939fc7c0c961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SRI_Test_GITs</sys_name>
+        <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+        <sys_update_name>sys_ui_module_4f5bb8f4db71a3c0f939fc7c0c961914</sys_update_name>
+        <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+        <sys_updated_on>2018-11-13 06:40:49</sys_updated_on>
+        <table>x_inpl_test_sri_sri_test_git</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
