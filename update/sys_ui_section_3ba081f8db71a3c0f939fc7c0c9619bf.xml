@@ -2,30 +2,100 @@
 <record_update>
     <sys_ui_section caption="" section_id="3ba081f8db71a3c0f939fc7c0c9619bf" sys_domain="global" table="x_inpl_test_sri_sri_test_git" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>x_inpl_test_sri_cfs_string</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
-            <sys_created_on>2018-11-13 07:10:24</sys_created_on>
-            <sys_id>6c22017cdb71a3c0f939fc7c0c961962</sys_id>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>6eb55ac9dbf12300f939fc7c0c96198e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
             <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
-            <sys_updated_on>2018-11-13 07:10:24</sys_updated_on>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_same_cfs</element>
+            <position>1</position>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>eeb55ac9dbf12300f939fc7c0c96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_inf_sri_rfs_parent_same_object_instance_id</element>
+            <position>2</position>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>62b55ac9dbf12300f939fc7c0c96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_inpl_test_sri_rfs_resource</element>
+            <position>3</position>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>e2b55ac9dbf12300f939fc7c0c96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_inpl_test_sri_cfs_string</element>
+            <position>4</position>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>66b55ac9dbf12300f939fc7c0c96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_inpl_test_sri_rfs_integer</element>
-            <position>1</position>
+            <position>5</position>
             <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
-            <sys_created_on>2018-11-13 07:10:24</sys_created_on>
-            <sys_id>ec22017cdb71a3c0f939fc7c0c961962</sys_id>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>e6b55ac9dbf12300f939fc7c0c96198f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
             <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
-            <sys_updated_on>2018-11-13 07:10:24</sys_updated_on>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>specification_type</element>
+            <position>6</position>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-14 07:54:07</sys_created_on>
+            <sys_id>6ab55ac9dbf12300f939fc7c0c96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_inpl_test_sri_sri_test_git" sys_domain="global" view="Default view">3ba081f8db71a3c0f939fc7c0c9619bf</sys_ui_section>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-14 07:54:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

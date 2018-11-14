@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="cmdb_ci_service" label="test_meena" max_length="40" name="u_test_meena" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="CFS_String" max_length="40" name="x_inpl_test_sri_cfs_string" type="string"/>
         <element label="RFS_Integer" max_length="40" name="x_inpl_test_sri_rfs_integer" type="integer"/>
     </element>
 </database>

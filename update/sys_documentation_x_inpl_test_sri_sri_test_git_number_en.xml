@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="number" label="CFS" language="en" table="x_inpl_test_sri_sri_test_git">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>CFS</label>
+            <language>en</language>
+            <name>x_inpl_test_sri_sri_test_git</name>
+            <plural>CFSs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+            <sys_created_on>2018-11-14 07:48:34</sys_created_on>
+            <sys_id>dd741689dbf12300f939fc7c0c96197c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>CFS</sys_name>
+            <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+            <sys_update_name>sys_documentation_x_inpl_test_sri_sri_test_git_number_en</sys_update_name>
+            <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+            <sys_updated_on>2018-11-14 07:49:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

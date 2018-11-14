@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="cmdb_ci_service" label="SRI_Test_GIT" max_length="40" name="x_inpl_test_sri_sri_test_git" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="CFS_String" max_length="40" name="x_inpl_test_sri_cfs_string" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="CFS" max_length="40" name="number" type="string"/>
+        <element label="Parent_Same_CFS" max_length="32" name="parent_same_cfs" reference="x_inpl_test_sri_sri_test_git" type="reference"/>
+        <element choice="1" label="Specification Type" max_length="40" name="specification_type" type="choice">
+            <choice>
+                <element label="CFS" value="CFS"/>
+                <element label="RFS" value="RFS"/>
+            </choice>
+        </element>
         <element label="RFS_Integer" max_length="40" name="x_inpl_test_sri_rfs_integer" type="integer"/>
+        <element label="Resource" max_length="40" name="x_inpl_test_sri_rfs_resource" type="string"/>
     </element>
 </database>
