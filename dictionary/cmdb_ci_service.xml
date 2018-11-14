@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element attributes="audit_type=whitelist" audit="true" extends="cmdb_ci" label="Business Service" max_length="40" name="cmdb_ci_service" sizeclass="42" type="collection">
-        <element label="RFS_Integer" max_length="40" name="x_inpl_test_sri_rfs_integer" type="integer"/>
-    </element>
-</database>
