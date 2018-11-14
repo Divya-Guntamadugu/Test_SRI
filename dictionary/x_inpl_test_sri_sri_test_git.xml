@@ -9,6 +9,7 @@
                 <element label="RFS" value="RFS"/>
             </choice>
         </element>
+        <element label="CFS_String" max_length="40" name="x_inpl_test_sri_cfs_string" type="integer"/>
         <element label="Resource" max_length="40" name="x_inpl_test_sri_rfs_resource" type="string"/>
     </element>
 </database>
