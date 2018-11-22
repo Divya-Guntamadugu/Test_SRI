@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="audit_type=whitelist" audit="true" extends="cmdb_ci_service" label="Customer Facing Services" max_length="40" name="u_inf_sri_customer_facing_service" sizeclass="424" type="collection">
+    <element attributes="audit_type=whitelist" audit="true" extends="cmdb_ci_service" label="Customer Facing Services" max_length="40" name="u_inf_sri_customer_facing_service" sizeclass="428" type="collection">
         <element label="CFS_String" max_length="40" name="x_inpl_test_sri_cfs_string" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Specification Type GIT" max_length="40" name="x_inpl_test_sri_specification_type_git" type="string"/>
     </element>
 </database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmdb_rel_type">
+    <cmdb_rel_type action="INSERT_OR_UPDATE">
+        <child_descriptor>Child_GIT</child_descriptor>
+        <end_point>false</end_point>
+        <name>Parent_GIT::Child_GIT</name>
+        <parent_descriptor>Parent_GIT</parent_descriptor>
+        <sys_class_name>cmdb_rel_type</sys_class_name>
+        <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+        <sys_created_on>2018-11-22 06:25:38</sys_created_on>
+        <sys_id>d52e0367db792700f939fc7c0c9619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parent_GIT::Child_GIT</sys_name>
+        <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+        <sys_update_name>cmdb_rel_type_d52e0367db792700f939fc7c0c9619db</sys_update_name>
+        <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+        <sys_updated_on>2018-11-22 06:25:38</sys_updated_on>
+    </cmdb_rel_type>
+</record_update>

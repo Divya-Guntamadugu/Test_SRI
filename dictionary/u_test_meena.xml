@@ -2,5 +2,6 @@
 <database>
     <element extends="cmdb_ci_service" label="test_meena" max_length="40" name="u_test_meena" type="collection">
         <element label="CFS_String" max_length="40" name="x_inpl_test_sri_cfs_string" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Specification Type GIT" max_length="40" name="x_inpl_test_sri_specification_type_git" type="string"/>
     </element>
 </database>
