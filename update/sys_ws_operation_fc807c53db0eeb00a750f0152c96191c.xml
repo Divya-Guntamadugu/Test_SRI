@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>GET</http_method>
+        <name>Test_SRI_GET</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+   var pId = request.pathParams.parent_instance_id;
+	var result=[];
+	var k=0;
+	
+	var rel = new GlideRecord('x_inpl_test_sri_sri_test_git');
+		rel.addQuery('parent_instance_id',pId);
+		rel.query();
+	
+	while(rel.next())
+		{
+			result[k] = {"ID" : rel.getValue('number'),
+						 "Service Characteristics"  : rel.getValue('x_inpl_test_sri_service_characteristics_git'),
+					   };
+					  
+			
+		}
+	
+	return result[k];
+
+})(request, response);]]></operation_script>
+        <operation_uri>/api/x_inpl_test_sri/test_sri_git/{parent_instance_id}</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/{parent_instance_id}</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+        <sys_created_on>2018-12-03 10:34:27</sys_created_on>
+        <sys_id>fc807c53db0eeb00a750f0152c96191c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Test_SRI_GET</sys_name>
+        <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+        <sys_update_name>sys_ws_operation_fc807c53db0eeb00a750f0152c96191c</sys_update_name>
+        <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+        <sys_updated_on>2018-12-03 10:56:59</sys_updated_on>
+        <web_service_definition display_value="Test_SRI_GIT">188eac13db0eeb00a750f0152c96197d</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>
