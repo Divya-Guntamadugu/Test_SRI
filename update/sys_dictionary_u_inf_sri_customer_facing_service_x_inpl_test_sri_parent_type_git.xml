@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
         <sys_created_on>2018-11-22 09:54:39</sys_created_on>
-        <sys_id>ca0ef363dbf92700f939fc7c0c961916</sys_id>
+        <sys_id>94fb716fdbc62f00a750f0152c9619f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Parent Type GIT</sys_name>
         <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
         <sys_update_name>sys_dictionary_u_inf_sri_customer_facing_service_x_inpl_test_sri_parent_type_git</sys_update_name>
-        <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
-        <sys_updated_on>2018-11-22 09:54:39</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-12-04 10:42:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

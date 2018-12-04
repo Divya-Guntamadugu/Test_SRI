@@ -6,7 +6,7 @@
             <choice/>
         </element>
         <element label="Service Characteristics GIT" max_length="4000" name="x_inpl_test_sri_service_characteristics_git" type="simple_name_values"/>
-        <element label="Specification ID GIT" max_length="40" name="x_inpl_test_sri_specification_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Specification ID GIT" max_length="40" name="x_inpl_test_sri_specification_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Specification Type GIT" max_length="40" name="x_inpl_test_sri_specification_type_git" type="string"/>
     </element>
 </database>
