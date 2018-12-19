@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="u_test_extensible" label="Test_Child_Extensible" max_length="40" name="x_inpl_test_sri_test_child_extensible" type="collection"/>
+</database>

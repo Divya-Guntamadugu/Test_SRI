@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="audit_type=whitelist" audit="true" extends="cmdb_ci_service" label="Resource Facing Services" max_length="40" name="u_inf_sri_resource_facing_service" sizeclass="145" type="collection">
+    <element attributes="audit_type=whitelist" audit="true" extends="cmdb_ci_service" label="Resource Facing Services" max_length="40" name="u_inf_sri_resource_facing_service" sizeclass="148" type="collection">
         <element label="CFS_String" max_length="40" name="x_inpl_test_sri_cfs_string" type="integer"/>
         <element choice="1" label="Parent Type GIT" max_length="40" name="x_inpl_test_sri_parent_type_git" type="choice">
             <choice/>

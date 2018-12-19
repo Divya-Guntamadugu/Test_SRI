@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="cmdb_ci_service" label="CFS_GIT" max_length="40" name="x_inpl_test_sri_sri_test_git" type="collection">
+    <element extends="cmdb_ci_service" label="CFS_GIT" max_length="40" name="x_inpl_test_sri_sri_test_git" sizeclass="2" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="CFS" max_length="40" name="number" type="string"/>
         <element label="Parent Instance ID" max_length="40" name="parent_instance_id" type="string"/>
         <element label="Parent_Same_CFS" max_length="32" name="parent_same_cfs" reference="x_inpl_test_sri_sri_test_git" type="reference"/>

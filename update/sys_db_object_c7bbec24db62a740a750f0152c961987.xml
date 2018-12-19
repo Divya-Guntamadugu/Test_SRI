@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Test_Child_Extensible</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_inpl_test_sri_test_child_extensible</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Test_extensible" name="u_test_extensible">bfb92824db62a740a750f0152c96192b</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>Divya.GuntamaduguMSP@inmarsat.com</sys_created_by>
+        <sys_created_on>2018-12-19 17:41:47</sys_created_on>
+        <sys_id>c7bbec24db62a740a750f0152c961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_Child_Extensible</sys_name>
+        <sys_package display_value="Test_SRI_App" source="x_inpl_test_sri">f0c270b0db71a3c0f939fc7c0c961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_SRI_App">f0c270b0db71a3c0f939fc7c0c961979</sys_scope>
+        <sys_update_name>sys_db_object_c7bbec24db62a740a750f0152c961987</sys_update_name>
+        <sys_updated_by>Divya.GuntamaduguMSP@inmarsat.com</sys_updated_by>
+        <sys_updated_on>2018-12-19 17:41:47</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_inpl_test_sri.u_inf_test_sri_app_access" name="x_inpl_test_sri.u_inf_test_sri_app_access">4bda74f4db71a3c0f939fc7c0c9619eb</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
