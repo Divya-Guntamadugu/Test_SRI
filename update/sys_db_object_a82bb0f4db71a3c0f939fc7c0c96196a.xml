@@ -14,7 +14,7 @@
         <label>CFS_GIT</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_inpl_test_sri_sri_test_git</name>
-        <number_ref display_value="CFSGIT">c5741649dbf12300f939fc7c0c96192d</number_ref>
+        <number_ref display_value="CFSGIT1">c5741649dbf12300f939fc7c0c96192d</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Business Service" name="cmdb_ci_service">3ee66ddcdb121300a750f0152c961946</super_class>
